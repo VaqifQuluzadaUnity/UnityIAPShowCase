@@ -1,0 +1,14 @@
+1) If scripts give error, but visual studio doesent show anything just turn off/on Unity.
+
+2)Consumable Products are like gems,coins and etc. This products can be consumed and be bought repeatedly
+
+3) Non-consumable products are skins, "stop ad" functionality- you buy it only one time and use it till the end.
+
+4)Product id must be determined in this form: 
+com.telebe.unityiapshowcase.500coins - com.your_unity_organization.project_name.product_id_string
+
+5) Product id's must be only lowercase and consist of numbers underscores and periods
+
+6)Activate preview packages in package manager and download device simulator.
+
+7)
